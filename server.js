@@ -4,6 +4,7 @@ File: Server.js
 Description: Web API scaffolding for Movie API
  */
 
+
 var express = require('express');
 var http = require('http');
 var bodyParser = require('body-parser');
@@ -92,7 +93,12 @@ router.route('/testcollection')
         var o = getJSONObjectForMovieRequirement(req);
         res.json(o);
     }
-    );
+    )
+    .all((req, res) => {
+        // Any other HTTP Method
+        // Returns a message stating that the HTTP method is unsupported.
+        res.status(405).send({ message: 'HTTP method not supported.' });
+    });
     
 app.use('/', router);
 app.listen(process.env.PORT || 8080);

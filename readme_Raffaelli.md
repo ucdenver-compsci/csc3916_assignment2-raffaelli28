@@ -1,0 +1,5 @@
+Please find attached my Postman link.
+
+Also, please note that I have been getting some error emails about the authorization variable I made and it kept on deleting it.
+
+PostMan Link: [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/32464719-b0d9b26a-9567-4f76-966c-9bd12efa6a30?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D32464719-b0d9b26a-9567-4f76-966c-9bd12efa6a30%26entityType%3Dcollection%26workspaceId%3D18bd4570-2239-401b-8c0d-06d6ab0b384f#?env%5BRaffaelli_Ispas_HW2%5D=W3sia2V5Ijoiand0IiwidmFsdWUiOiJKV1QgZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2SWpsbVptVTFOV0UwTURSaVpESTBOelJpT1RoaFlXSmhaVE5tTkRkaU5tSTFNVFEyTmpReE1tVWlMQ0oxYzJWeWJtRnRaU0k2SW1SdlkzUnZjbmRvYnlJc0ltbGhkQ0k2TVRjd09Ea3hPVFExTVgwLm1jVGxKMWJQbnlxY2p1SUxZeEJFZGl0OWdvbmxRMG9Lak5GMFpBblB5emciLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCIsInNlc3Npb25WYWx1ZSI6IkpXVC4uLiIsInNlc3Npb25JbmRleCI6MH1d)
